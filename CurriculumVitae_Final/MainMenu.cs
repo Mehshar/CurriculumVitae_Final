@@ -13,7 +13,7 @@ namespace CurriculumVitae_Final
         // public virtual string header { get; set; } = "\t\t\t\t\t\t--------- MAIN MENU ---------";
         public virtual string header { get; set; } = "\t\t\t\t\t\t--------- MAIN MENU ---------";
 
-        // Default Constructor
+        // Default Constructor  
         public MainMenu() { }
 
         public virtual void DisplayMenu()
